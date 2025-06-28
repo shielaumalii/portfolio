@@ -178,7 +178,7 @@ For changing the screenshot:
             me is via an email.
           </p>
           <!-- Replace the email with yours -->
-          <a href="mailto:you@example.com" class="btn">you@example.com</a>
+          <a href="mailto:shielamarie.lleva.umali@gmail.com" class="btn">shielamarie.lleva.umali@gmail.com</a>
         </div>
       </div>
 </section>
