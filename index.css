@@ -489,8 +489,8 @@ body:not(.user-is-tabbing) a:focus {
 }
 
 .work__image-box {
-  width: 350px;   /* Set your desired width */
-  height: 400px;  /* Set your desired height */
+  width: 120px;   /* Set your desired width */
+  height: 150px;  /* Set your desired height */
   overflow: hidden; /* Prevents image overflow */
   display: flex;
   align-items: center;
